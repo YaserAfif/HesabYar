@@ -1,5 +1,6 @@
 {
-  "version": "21.0.0",
-  "release_date": "2026-10-30",
-  "notes": "Version indicator, update detection and refresh"
+  "version": "21.1.0",
+  "name": "HesabYar",
+  "release": "Welcome & Company Setup",
+  "date": "2026-10-30"
 }
