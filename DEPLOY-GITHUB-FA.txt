@@ -1,6 +1,0 @@
-راهنمای کوتاه انتشار روی GitHub Pages
-1) وارد repository گیت‌هاب خود شوید.
-2) فایل‌های همین بسته را در ریشهٔ repository آپلود کنید: index.html, manifest.webmanifest, icon.svg, sw.js, supabase-schema.sql, README-FA.txt.
-3) Settings > Pages را باز کنید؛ Deploy from a branch را انتخاب و branch اصلی و /(root) را ثبت کنید.
-4) پس از فعال‌شدن Pages، آدرس HTTPS سایت را باز کنید.
-5) برای دادهٔ آنلاین، حتماً مراحل Supabase در README-FA.txt را انجام دهید. انتشار GitHub Pages به تنهایی اطلاعات را بین دستگاه‌ها همگام نمی‌کند.
